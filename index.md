@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hey there ! It's just another dev writing his thoughts on the internet.
 
-Maybe say a some things about yourself.
+On the unlikely chance you'd like to ask me something, I'm open to emails.
 
-Or maybe what you plan to blog about.
+Have a great day !
