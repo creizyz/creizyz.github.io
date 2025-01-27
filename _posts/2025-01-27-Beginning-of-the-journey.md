@@ -46,7 +46,6 @@ target_link_libraries(raylib-demo-core PUBLIC
 ...
 ```
 
-> [!TIP]  
 > Initially, the linker could not resolve ```-lGL```. To fix this, I had to install the ```libgl1-mesa-dev``` package.
 
 4. And voila
@@ -59,5 +58,4 @@ Using a simple raylib [example](https://www.raylib.com/examples.html), we can ch
 
 Now, I want to load a display images. Let's see if I can have a character moving on screen.
 
-> [!NOTE]  
 > I found a [guy on youtube](https://www.youtube.com/watch?v=j0C4ox1gFxk&list=PLORJX3OiHbbMs9AFM5bzpNUychJm1raub) demonstrating the first steps into making a 2D game with raylib. I'll be using its guidance for the next steps.
